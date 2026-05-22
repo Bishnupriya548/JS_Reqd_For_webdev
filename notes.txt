@@ -1,0 +1,11 @@
+variable-->named memory address
+datatypes--->var,let,const--->function and globally scoped
+var--not block scoped 
+let and const: block scoped 
+
+var--> can be redefined
+but modification possible in let and const 
+
+== --> does type coercion
+=== --> doesnot
+
